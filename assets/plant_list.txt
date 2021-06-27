@@ -2,47 +2,454 @@ Agoseris heterophylia
 Mountain Dandelion
 agoseris1.jpg
 yellow
+flower
 Agoseris heterophylia
 Mountain Dandelion
 agoseris2.jpg
 white
+flower
 Dendromecon rigida
 Bush Poppy
 dendromecon.jpg
 yellow
+flower
 Layia platyglossa
 Tidy Tips
 layia.jpg
 yellow
+flower
 Eriophyllum confertifolium
 Golden Yarrow
 eriophyllum.jpg
 yellow
+flower
 Ericameria ericoides
 Mock Heather
 ericameria.jpg
 yellow
+flower
 Crocanthemum scoparium
 Broom Rush-Rose or Peak Rush-Rose
 crocanthemum.jpg
 yellow
+flower
 Oxalis pes-caprae
 Bermuda Buttercup or Sourgrass (not native)
 oxalis.jpg
 yellow
+flower
 Heterotheca grandiflora
 Telegraph Weed
 heterotheca.jpg
 yellow
+flower
 Encelia californica
 Bush Sunflower or Brittlebush
 encelia.jpg
 yellow
+flower
 Ranunculus californicus
 California Buttercup
 ranunculus.jpg
 yellow
+flower
 Amsinckia intermedia
 Common Fiddleneck
 amsinckia.jpg
 yellow
+flower
+Acmispon glaber
+Deerweed
+acmispon.jpg
+yellow
+flower
+Bloomeria crocea
+Golden Stars
+bloomeria.jpg
+yellow
+flower
+Erysimum capitatum
+Western Wallflower
+erysimum.jpg
+yellow
+flower
+Diplacus aurantiacus
+Sticky Monkeyflower
+diplacus.jpg
+white
+flower
+Viola pedunculata
+Johnny-Jump-Up or Golden Violet
+viola.jpg
+yellow
+flower
+Deinandra paniculata
+Tarplant
+deinandra.jpg
+yellow
+flower
+Brassica nigra
+Black Mustard (not native)
+brassica.jpg
+yellow
+flower
+Lasthenia californica
+California goldfields
+lasthenia.jpg
+yellow
+flower
+Eschscholzia californica
+California Poppy
+eschscholzia.jpg
+orange
+flower
+Hazardia squarrosa
+Sawtooth Golden Bush
+hazardia.jpg
+yellow
+flower
+Frangula californica
+California Coffeeberry
+frangula.jpg
+red
+berry
+Rhamnus crocea
+Spiny Red Berry
+rhamnus.jpg
+red
+berry
+Silene laciniata Cav. ssp. californica
+Indian Pink
+silene.jpg
+red
+flower
+Epilobium canum
+California Fuchsia
+epilobium.jpg
+pink
+flower
+Keckiella cordifolia
+Climbing Penstemon or Heartleaf Keckiella
+keckiella.jpg
+pink
+flower
+Paeonia californica
+California Peony
+paeonia.jpg
+pink
+flower
+Ribes speciosum
+Fuchsia-flowered Gooseberry
+ribes.jpg
+pink
+flower
+Schinus molle
+False Pepper Tree or Peruvian Pepper Tree (not native)
+schinus.jpg
+red
+flower
+Penstemon centranthifolius
+Scarlet Bugler
+penstemon.jpg
+pink
+flower
+Salvia mellifera
+Black Sage
+salvia1.jpg
+white
+flower
+Dichelostemma capitatum
+Blue Dicks or Wild Hyacinth
+dichelostemma.jpg
+purple
+flower
+Collinsia heterophylla
+Chinese Houses
+collinsia.jpg
+white
+flower
+Calystegia macrostegia ssp. cyclostegia
+Coast Morning-Glory
+calystegia.jpg
+pink
+flower
+Lupinus bicolor
+Miniature Lupin or Bicolored Lupine
+lupinus1.jpg
+purple
+flower
+Sisyrinchium bellum
+Blue-Eyed Grass
+sisyrinchium.jpg
+purple
+flower
+Ceanothus cuneatus
+Buckbrush
+ceanothus.jpg
+white
+flower
+Scutellaria tuberosa
+Scullcap
+scutellaria.jpg
+purple
+flower
+Pedicularis densiflora
+Indian Warrior
+pedicularis.jpg
+pink
+flower
+Rosa californica
+California Wild Rose
+rosa.jpg
+pink
+flower
+Castilleja densiflora
+Owl’s Clover or Dense Flower Paint-Brush
+castilleja.jpg
+pink
+flower
+Clarkia amoena
+Farewell to Spring
+clarkia1.jpg
+pink
+flower
+Clarkia affinis
+Common Chaparral Clarkia
+clarkia2.jpg
+pink
+flower
+Asclepias fascicularis
+Narrow Leaved Milkweed
+asclepias.jpg
+pink
+flower
+Chorizanthe staticoides
+Turkish Rugging
+chorizanthe.jpg
+pink
+flower
+Cirsium occidentale
+Western Thistle or Cobwebby Thistle
+cirsium1.jpg
+pink
+flower
+Salvia spathacea
+Hummingbird Sage or Crimson Sage
+salvia2.jpg
+pink
+flower
+Pholistoma auritum
+Fiesta Flower
+pholistoma.jpg
+purple
+flower
+Leptodactylon californicum
+California Prickly Phlox
+leptodactylon.jpg
+purple
+flower
+Solanum xanti
+Purple Nightshade
+solanum.jpg
+purple
+flower
+Erodium botrys
+Long-beaked Filaree or Broad Leaf Filaree (not native)
+erodium.jpg
+purple
+flower
+Zeltnera venusta
+Canchalagua
+zeltnera.jpg
+pink
+flower
+Cirsium vulgare
+Bullthistle (not native)
+cirsium2.jpg
+pink
+flower
+Silybum marianum
+Milk Thistle (not native)
+silybum.jpg
+pink
+plant
+Pickeringia montana
+Chaparral Pea
+pickeringia.jpg
+pink
+flower
+Ascleipias eriocarpa
+Indian Milkweed or Kotolo Milkweed
+ascleipias.jpg
+purple
+flower
+Calochortus splendens
+Splendid Mariposa Lily
+calochortus1.jpg
+purple
+flower
+Calochortus splendens
+Splendid Mariposa Lily
+calochortus2.jpg
+purple
+flower
+Lupinus albifrons
+Silver Lupine
+lupinus2.jpg
+purple
+flower
+Sambucus nigra ssp. caerulea
+Blue Elderberry
+sambucus1.jpg
+purple
+berry
+Sambucus nigra ssp. caerulea
+Blue Elderberry
+sambucus2.jpg
+yellow
+berry
+Verbena lasiostachys var. lasiostachys
+Western Vervain Verbena
+verbena.jpg
+purple
+flower
+Primula Clevelandii
+Shooting Star or Padre’s Shooting Star
+primula.jpg
+purple
+flower
+Raphanus sativus
+Wild Radish (not native)
+raphanus.jpg
+purple
+flower
+Calandrinia menzieslii
+Red Maids
+calandrinia.jpg
+purple
+flower
+Corethrogyne filaginifolia
+Common Sand Aster
+corethrogyne.jpg
+purple
+flower
+Lupinus truncatus
+Collared Annual Lupine
+lupinus3.jpg
+purple
+flower
+Vicia villosa
+Vetch (not native)
+vicia.jpg
+purple
+flower
+Stachys bullata
+California Hedge Nettle or Wood Mint
+stachys.jpg
+purple
+flower
+Nemophila menziesii
+Baby Blue Eyes
+nemophila.jpg
+blue
+flower
+Toxicondendron diversilobum
+Poison Oak
+toxicondendron1.jpg
+green
+plant
+Toxicondendron diversilobum
+Poison Oak
+toxicondendron2.jpg
+red
+plant
+Arctostaphylos purissima
+La Purissima Manzanita
+arctostaphylos1.jpg
+white
+berry
+Arctostaphylos purissima
+La Purissima Manzanita
+arctostaphylos2.jpg
+brown
+plant
+Heteromeles arbutifolia
+Toyon or California Christmas Berry
+heteromeles.jpg
+red
+berry
+Baccharis pilularis
+Coyote Brush
+baccharis1.jpg
+white
+flower
+Cardamine californica
+Milk Maids or Toothwort
+cardamine.jpg
+white
+flower
+Anaphalis margaritacea
+Pearly Everlasting
+anaphalis.jpg
+white
+flower
+Datura wrightii
+Jimsonweed
+datura.jpg
+white
+flower
+Claytonia perfoliata
+Miner’s Lettuce
+claytonia.jpg
+green
+plant
+Adenostema fasciculatum
+Chamise
+adenostema.jpg
+green
+flower
+Anthemis cotula
+Mayweed or Dog Fennel (not native)
+anthemis.jpg
+white
+flower
+Salanum douglasii Dunal
+Douglas’ Nightshade or Greenspot Nightshade
+salanum.jpg
+green
+plant
+Plagiobothrys nothofulvus
+Popcornfl ower or Rusty Popcorn Flower
+plagiobothrys.jpg
+white
+flower
+Chlorogalum pomeridianum
+Soap Plant, Soap Root or Armole
+chlorogalum.jpg
+green
+plant
+Baccharis salicifolia
+Mulefat or Seep Willow
+baccharis2.jpg
+white
+flower
+Achillea millefolium
+Common Yarrow
+achillea.jpg
+white
+flower
+Conium maculatum
+Poison Hemlock (not native)
+conium.jpg
+white
+flower
+Eriogonum fasciculatum
+California Buckwheat
+eriogonum.jpg
+white
+flower
+Horkelia cuneata ssp. Puberula
+Mesa Horkelia
+horkelia.jpg
+white
+flower

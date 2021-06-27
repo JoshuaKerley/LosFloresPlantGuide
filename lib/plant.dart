@@ -7,7 +7,8 @@ class Plant
   String filename;
   late Widget photo;
   String color;
-  Plant(this.sciName, this.commonName, this.filename, this.color)
+  String type;
+  Plant(this.sciName, this.commonName, this.filename, this.color, this.type)
   {
     photo = Hero(
       tag: filename,

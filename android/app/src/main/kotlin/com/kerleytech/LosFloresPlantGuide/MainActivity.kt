@@ -1,4 +1,4 @@
-package com.example.losflores_flower_id
+package com.kerleytech.LosFloresPlantGuide
 
 import io.flutter.embedding.android.FlutterActivity
 

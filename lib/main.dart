@@ -4,11 +4,17 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:losflores_flower_id/plant.dart';
 
-void main() {
+
+void main()
+{
+  WidgetsFlutterBinding.ensureInitialized();
+  SystemChrome.setPreferredOrientations(
+      [DeviceOrientation.portraitUp, DeviceOrientation.portraitDown]);
+
   runApp(MyApp());
 }
 
-final _biggerFont = TextStyle(fontSize: 18.0);
+
 
 class MyApp extends StatelessWidget
 {
@@ -66,6 +72,21 @@ class _FlowerIDState extends State<FlowerID>
     return Scaffold(
         appBar: AppBar(
           title: Text('Los Flores Plant Guide'),
+          actions: [
+            PopupMenuButton(itemBuilder: (context) => [
+                PopupMenuItem(
+                    value: 0,
+                    child: Text("About")
+                )
+              ],
+              onSelected: (value)
+              {
+                Navigator.of(context).push(
+                  MaterialPageRoute<void>(builder: (context) => About())
+                );
+              },
+            )
+          ],
         ),
         body: ListView(children: divided),
     );
@@ -78,10 +99,10 @@ class _FlowerIDState extends State<FlowerID>
 
     List<Plant> list = [];
 
-    for(int i = 0; i < lines.length; i+=4)
+    for(int i = 0; i < lines.length; i+=5)
     {
       //print("adding: " + lines[i]);
-      list.add(new Plant(lines[i], lines[i+1], lines[i+2], lines[i+3]));
+      list.add(new Plant(lines[i], lines[i+1], lines[i+2], lines[i+3], lines[i+4]));
     }
     return list;
   }
@@ -139,7 +160,7 @@ class MoreInfo extends StatelessWidget
     return Scaffold(
       appBar: AppBar(
         title: Text(plant.getSciName()),
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.green
       ),
       body: GestureDetector(
           child: Column(
@@ -173,3 +194,33 @@ class MoreInfo extends StatelessWidget
     );
   }
 }
+
+class About extends StatelessWidget
+{
+  @override
+  Widget build(BuildContext context)
+  {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text("About This App"),
+        backgroundColor: Colors.green
+      ),
+      body: Padding(
+        padding: EdgeInsets.all(25.0),
+        child: Column(
+          children: [
+            SizedBox(height: 20),
+            Text("Los Flores Plant Guide", style: TextStyle(fontSize: 50, fontWeight: FontWeight.bold), textAlign: TextAlign.center),
+            SizedBox(height: 40),
+            Text("App created by Josh Kerley", style: TextStyle(fontSize: 30), textAlign: TextAlign.center),
+            SizedBox(height: 40),
+            Text("Plant identification credits to Rincon, Susan Tuttle and the California Native Plant Society",
+                style: TextStyle(fontSize: 30), textAlign: TextAlign.center)
+          ],
+        )
+      )
+    );
+  }
+
+}
+
